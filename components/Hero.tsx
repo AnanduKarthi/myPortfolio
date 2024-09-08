@@ -31,7 +31,7 @@ const Hero = () => {
             words="Transforming Concepts into Seamless User Experiences"
           />
           <p className=" text-center md:tracking-wide mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I’m Adrian, a Next.js Developer based in Croatia.
+            Hi! I’m Anandu, a Next.js Developer based in India.
           </p>
 
           <MagicButton
